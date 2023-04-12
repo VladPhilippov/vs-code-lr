@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+body{
+    font-family: 'Courier Prime', monospace;
+    background-color: rgb(233, 233, 233);
+}
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    text-align: center;
+    padding: 5px;
+    background-color:rgb(92, 92, 189);
+}
+.main__information-img{
+    text-align: center;
+}
+.main__information-text-inf__about__me{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.btn{
+    background-color: yellow;
+    color: rgb(255, 255, 255);
+    border-radius: 15%;
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    height: 40px;
+    width: 100px;
+    border: none;
+}
+.header{
+width: 100%;
+height: 20%;
+background-color: rgb(92, 92, 189) ;
+position:absolute;
+top: 0px;
+left: 0px;
+
+}
+.footer__title{
+    text-align: center;
+    color: aliceblue;
+}
+.footer__link{
+   text-align: center;
+   color: aliceblue;
+}
+.footer{width: 100%;
+    height: 20%;
+    background-color: rgb(92, 92, 189) ;
+    position:absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.progress{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.now{
+text-align: center;
+}
+.future{
+text-align: center;
+}
+.can{
+text-align: center;
+}
+.progress{
+    margin-top: 140px;
+}
+.Languages{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 15%;
+    padding: 20px;
+    max-width: 250px;
+    height: 300px;
+}
+.Languages__in__future{
+    position: absolute;
+    top: 40%;
+    left: 43%;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 15%;
+    padding: 20px;
+    max-width: 250px;
+    height: 300px
+}
+.Available__for{
+    position: absolute;
+    top: 40%;
+    right: 15%;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 15%;
+    padding: 20px;
+    max-width: 250px;
+    height: 300px
+}
+.main__information-text{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    position: absolute;
+    left: 50%;
+    width: 600px;
+    height: 250px;
+    margin: -150px 0 0 -300px;
+    margin-top: 70px;
+    border-radius: 5%;
+}
+.Languages-1{
+    margin-left: 30px;
+}
+.Languages__in__future-2{
+    margin-left: 30px;
+} 
+.Available__for-3{
+    margin-left: 30px;
+}
+.footer__list{
+display: flex;
+list-style-type: none;
+justify-content: center;
+}
+.footer__list-link{
+    margin-right: 35px;
+}
+
+.main__information{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
