@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.wrapper{
+    display: flex;
+    margin: 15px;
+    height: 900px;
+    background-color: white;
+    box-shadow: 5px 5px 15px -5px grey;
+}
+body{
+    background-color: #e1e1e1;
+    margin: 0;
+    height: 915px;
+}
+.purchase__container{
+    background-image: url(./lr3__img/side_background2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 900px;
+}
+.pay__container{
+    width: 50%;
+    height: 900px;
+}
+.purchase__logo{
+    padding-top: 45px;
+    text-align: center;
+}
+.logo__title{
+color: aliceblue;
+}
+.purchase__list{
+    height: 75%;
+    margin: 0 auto;
+    width: 70%;
+    backdrop-filter: blur(110px);
+    position: relative;
+    border: solid 1px rgba(0,0,0,0);
+}
+.list__spread{
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.list__honey{
+    padding-top: 70px;
+    padding-left: 30px;
+}
+.list__cereal{
+    padding-top: 70px;
+    padding-left: 30px;
+}
+.books{
+    width: 20px;
+}
+.d2{
+    padding-left: 35px;
+}
+.d3{
+    padding-left: 350px;
+}
+.t3{
+    padding-left: 350px;
+}
+.list__amount{
+    padding-left: 30px;
+    padding-top: 70px;
+}
+.back__img{
+    width: 20px;
+}
+table{
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 3px;
+}
+.td{
+    padding-left: 360px;
+}
+.purchase__back{
+    padding-top: 80px;
+    padding-left: 30px;
+}
+
+.payPal__btn{
+    width: 60%;
+    height: 40px;
+    display: block;
+    background-color: #03A9F4;
+    margin: 120px auto 0;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+}
+.card__btn--text{
+    text-align: center;
+    color: darkgray;
+}
+.card__btn{
+    text-decoration: none;
+}
+.pay__email, .pay__name{
+    width: 60%;
+    height: 70px;
+    margin: 30px auto 0;
+}
+.pay__email>input{
+    height: 35px;
+    width: 100%;
+    border-radius: 5px;
+}
+.pay__name>input{
+    height: 35px;
+    width: 100%;
+    border-radius: 5px;
+}
+.pay__cardInf--img{
+    width: 30px;
+}
+.pay__cardInf{
+    width: 60%;
+    height: 80px;
+    margin: 30px auto 0; 
+    padding-top: 30px;
+}
+.pay__country{
+    padding-top: 30px;
+    width: 60%;
+    height: 80px;
+    margin: 30px auto 0;
+}
+.pay__btn{
+    width: 60%;
+    height: 40px;
+    display: block;
+    background-color: #03A9F4;
+    margin: 100px auto 0;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+}
+.pay__name{
+    padding-top: 30px;
+}
+.cardInf__incard{
+    margin-top: 10px;
+    height: 62px;
+    border: 1px solid #e8e8eb;
+    border-radius: 7px;
+}
+.cardInf__incard th, .cardInf__incard td{
+    border: 1px solid #e8e8eb;
+    height: 28px;
+    padding: 0;
+}
+.cardInf__incard td{
+    width: 50%;
+}
+.cardInf__incard span{
+    display: block;
+    width: 140px;
+    line-height: 28px;
+    float: right;
+    height: 28px;
+    margin-right: 4px;
+}
+.cardInf__incard img{
+    margin-top: 5px;
+    height: 20px;
+}
+.cardInf__incard input{
+    height: 28px;
+    width: 150px;
+    float: left;
+    margin-left: 5px;
+    padding: 0;
+    border: 0;
+}
+.pay__country table{
+    width: 100%;
+}
+.pay__country input{
+    height: 30px;
+    width: 100%;
+}
+.pay__country select{
+    width: 100%;
+    height: 30px;
+}

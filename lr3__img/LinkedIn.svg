@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="72"
+   viewBox="0 0 72 72"
+   width="72"
+   version="1.1"
+   id="svg945"
+   sodipodi:docname="LinkedIn_icon_circle.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs949" />
+  <sodipodi:namedview
+     id="namedview947"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="5.1559869"
+     inkscape:cx="26.086179"
+     inkscape:cy="35.589694"
+     inkscape:window-width="1360"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g943" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g943">
+    <path
+       style="display:inline;fill:#03a9f4;fill-opacity:1;stroke-width:0.193949"
+       d="M 32.486506,71.734943 C 21.568309,70.617671 11.846532,64.672158 5.8546461,55.447786 0.64431641,47.426602 -1.1057041,37.589275 0.9963275,28.137897 3.320042,17.689764 10.27875,8.809505 19.983315,3.9079149 25.066514,1.3404874 30.097844,0.17520163 36.088771,0.17779533 42.895692,0.18074229 48.90004,1.8495598 54.596725,5.3217999 63.620128,10.82174 69.613345,19.728756 71.504634,30.450038 c 0.345013,1.9558 0.342887,9.117549 -0.0033,11.05511 -0.84001,4.701652 -2.253557,8.679911 -4.416605,12.43 C 60.095543,66.052322 46.302,73.148701 32.486484,71.734943 Z"
+       id="path1415" />
+    <path
+       d="M 59,57 H 49.959375 V 41.60179 c 0,-4.221767 -1.604167,-6.581032 -4.945703,-6.581032 -3.635156,0 -5.534375,2.455182 -5.534375,6.581032 V 57 h -8.71263 V 27.666667 h 8.71263 v 3.951195 c 0,0 2.619661,-4.847372 8.844401,-4.847372 C 54.545573,26.77049 59,30.569937 59,38.427949 Z M 20.372526,23.825704 C 17.404818,23.825704 15,21.402017 15,18.412852 15,15.423686 17.404818,13 20.372526,13 c 2.967708,0 5.371094,2.423686 5.371094,5.412852 0,2.989165 -2.403386,5.412852 -5.371094,5.412852 z M 15.873698,57 h 9.085026 V 27.666667 h -9.085026 z"
+       fill="#ffffff"
+       id="path941"
+       style="display:inline" />
+  </g>
+</svg>

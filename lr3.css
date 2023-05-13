@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat & display=swap');
+*, *::before, *::after, body, html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+    font-family: 'Montserrat', sans-serif;
+ }
+.wrapper{
+    display: flex;
+}
+.signUp__container{
+    background-image: url(./lr3__img/side_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 45%;
+    height: 1000px;
+}
+.signUp__media{
+    padding-top: 40%; 
+
+}
+.img{
+    width: 35px;
+}
+.registration__container{
+    width: 55%;
+}
+.registration__title{
+    text-align: center;
+    padding-top: 20%;
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: dimgray;
+}
+.registration__free{
+    text-align: center;
+    padding-top: 40px;
+    color: darkgray;
+    letter-spacing: 2px;
+}
+.registration__field{
+    position: center;
+}
+.registration__field{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.registration__field--checkbox{
+    display: flex;
+}
+.registration__button--link{
+    text-align: center;
+    text-decoration: none;
+}
+.link__text{
+    background-color: #03A9F4;
+    color: aliceblue;
+    padding: 10px 0 10px 0;
+    border-radius: 20px;
+}
+.registration__button{
+    padding-top: 65px;
+}
+.registration__field{
+    padding-top: 60px;
+}
+.registration__field--password{
+    padding-top: 40px;
+}
+.registration__field--checkbox{
+    padding-top: 65px;
+}
+.checkbox__text{
+    padding-left: 10px;
+}
+
+ .registration__field--email>input{
+    height: 35px;
+    width: 100%;
+ } 
+ .registration__field--password>input{
+    height: 35px;
+    width: 100%;
+ } 
+ .media__linkedIn>a{
+    display: flex;
+    text-decoration: none;
+    padding-left: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:aliceblue;
+    border-radius: 20px;
+ }
+ .media__twitter>a{
+    display: flex;
+    text-decoration: none;
+    padding-left: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:aliceblue;
+    border-radius: 20px;
+ }
+ .media__facebook>a{
+    display: flex;
+    text-decoration: none;
+    padding-left: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:aliceblue;
+    border-radius: 20px;
+ }
+ .media__linkedIn{
+    padding-left: 20%;
+    padding-right: 20%;
+ }
+ .media__twitter{
+    padding-top: 40px;
+    padding-left: 20%;
+    padding-right: 20%;
+ }
+ .media__facebook{
+    padding-top: 40px;
+    padding-left: 20%;
+    padding-right: 20%;
+ }
+ .media__linkedIn--text{
+    padding-left: 20px;
+    padding-top: 10px;
+ }
+ .media__twitter--text{
+    padding-left: 20px;
+    padding-top: 10px;
+ }
+ .media__facebook--text{
+    padding-left: 20px;
+    padding-top: 10px;
+ }
+ .media__linkedIn--text{
+    font-size: 20px;
+ }
+ .media__twitter--text{
+    font-size: 20px;
+ }
+ .media__facebook--text{
+    font-size: 20px;
+ }
+ .checkbox__text{
+    font-size: 20px;
+ }
+ .link__text{
+    font-size: 25px;
+ }
+
