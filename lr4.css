@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&display=swap');
+body{
+    overflow: hidden;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    margin-left: 150px;
+    max-width: 45%;
+}
+.main__img{
+    padding-top: 75px;
+}
+.main__info--new{
+    padding-top: 120px;
+    display: flex;
+}
+.main__info--new>span{
+background-color: #242942;
+color: aliceblue;
+padding: 10px;
+border-radius: 15px;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 20px;
+}
+.main__info--new>p{
+    padding-left: 20px;
+    font-family: 'Barlow', sans-serif;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+.main__info--title{
+    padding-top: 30px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 70px;
+    color: #242942;
+}
+.main__info--description{
+    padding-top: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+}
+.main__schedule{
+    display: flex;
+    padding-top: 30px;
+}
+.main__schedule--btn{
+    padding: 15px;
+    background-color: #FF5C5C;
+    color: aliceblue;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+}
+.main__schedule--text{
+    padding-left: 30px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    font-family: 'Barlow', sans-serif;
+}
+.service{
+    max-width: 55%;
+}
+.service__info{
+    padding-top: 75px;
+    position: absolute;
+    z-index: 100;
+    bottom: 75px;
+}
+.service__info--img{
+    padding-top: 150px;
+    padding-left: 50px;
+    height: 600px;
+}
+.navigation{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    padding-left: 300px;
+}
+.service__info--product>a{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.service__info--features>a{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.service__info--pricing>a{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.service__info--login>a{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #5B5F71;
+}
+.service__info--dot>div{
+    background-color: #5B5F71;
+    padding: 5px;
+    border-radius: 50%;
+    margin-top: 8px;
+}
+.div{
+    position: relative;
+    padding: 400px;
+    padding-right: 500px;
+    background-color: #A0A1AC;
+    width: 200px;
+    border-radius: 50px;
+}
+
